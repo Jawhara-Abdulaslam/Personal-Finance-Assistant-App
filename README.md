@@ -1,16 +1,36 @@
-# accuntant
+# Personal Finance Assistant App 💰📊
 
-A new Flutter project.
+A smart mobile application designed to help users manage their income and expenses through intelligent insights and financial breakdowns.  
+Built with Flutter to deliver a clean UI and smooth experience.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+ Track income & expenses  
+ Visual spending insights (Charts)  
+ Smart categorization   
+ Multi-currency support (Optional)  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠 Tech Stack
+- Flutter & Dart
+- Responsive UI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📸 Screenshots
+(Will be added soon)
+
+---
+
+## 🚀 Future Improvements
+- AI-based expense predictions
+- Budget alerts & notifications
+- Export PDF reports
+
+---
+
+## 📂 Project Structure
+Clean architecture with separate layers for:
+
