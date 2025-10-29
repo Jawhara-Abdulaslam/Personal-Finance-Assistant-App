@@ -20,7 +20,7 @@ Built with Flutter to deliver a clean UI and smooth experience.
 ---
 
 ## 📸 Screenshots
-(Will be added soon)
+(above)
 
 ---
 
